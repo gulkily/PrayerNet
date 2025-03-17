@@ -1,0 +1,6 @@
+{
+    "prerequisite": "1.json",
+    "user_type": "User who shares prayer requests",
+    "story": "I want to be able to make a thread for a shared prayer request so that I can ask specific questions on it.",
+    "reason": "This will allow me to understand the prayer request better and offer up better prayers."
+}

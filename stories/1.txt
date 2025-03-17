@@ -1,1 +1,0 @@
-As a user that is praying for other users, I want to be able to make a thread in a prayer request to ask questions that could help me pray better. For example, if someone is asking for a prayer for their surgery, I might be curious as to what the surgery is for and when it is being performed so that I can be more specific in my prayers.
