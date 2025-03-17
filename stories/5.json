@@ -1,0 +1,6 @@
+{
+    "prerequisite": "1.json",
+    "user_type": "User who shares prayer requests",
+    "story": "I want to be able to create an account with a username. However, after I create an account, I want to have the choice to remain anonymous when I share a prayer request.",
+    "reason": "Having a username will allow others to better connect with me and identify me when I share follow-up prayer requests. Anonimity will allow me to share more personal prayer requests without fear of judgement."
+}
