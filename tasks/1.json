@@ -1,5 +1,13 @@
 {
     "status": "in_progress",
     "task": "Decide on a final name for the project",
-    "assignees": ["Ilya Gulko"]
+    "assignees": [
+        {
+            "name": "Ilya Gulko",
+            "status": "In Progress",
+            "notes": [
+                "Potential name idea: Upper Room"
+            ]
+        }
+    ]
 }
