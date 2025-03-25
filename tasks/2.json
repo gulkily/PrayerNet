@@ -1,4 +1,5 @@
 {
     "status": "in_progress",
-    "task": "Read book recommended by Ilya: 'Speak Lord, Your Servant is Listening'. Once done, have a discussion about it."
+    "task": "Read book recommended by Ilya: 'Speak Lord, Your Servant is Listening'. Once done, have a discussion about it.",
+    "assignees": ["Ilya Gulko", "Mark Bu"]
 }
